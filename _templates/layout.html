@@ -1,0 +1,36 @@
+{% extends "!layout.html" %}
+{%- block extrahead %}
+<meta name="sourcename" content="{{ sourcename }}" />
+<script>
+    var head = document.getElementsByTagName('HEAD')[0];  
+    var link = document.createElement('link'); 
+    link.rel = 'stylesheet';  
+    link.type = 'text/css'; 
+    var theme = localStorage.getItem('user_theme');
+    if (theme == "dark") {
+        link.href = '/_static/theme-dark.css';
+    } else {
+        link.href = '/_static/theme-light.css';
+    }
+    head.appendChild(link);
+</script>
+{% if "index" in sourcename %}
+  <script type="text/javascript" src="./_static/old-guide-redirect.js"></script>
+{% endif %}
+{% if "switch-theme" in sourcename %}
+  <script>
+    var theme = localStorage.getItem('user_theme');
+    if (theme == 'dark') {
+        localStorage.setItem('user_theme', 'light');
+    } else {
+        localStorage.setItem('user_theme', 'dark');
+    }
+    
+    if (document.referrer.length < 1 || document.referrer.indexOf("switch-theme") > -1) {
+      window.location.replace("/");
+    } else {
+       window.location.replace(document.referrer);
+    }
+  </script>
+{% endif %}
+{% endblock %}

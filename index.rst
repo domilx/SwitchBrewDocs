@@ -46,3 +46,6 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
    :caption: Tinfoil
    :hidden:
 
+   /tinfoil/installation
+   /tinfoil/usage
+
