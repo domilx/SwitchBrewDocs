@@ -40,7 +40,8 @@ release = ''
 # ones.
 extensions = [
     'button',
-    'cloud_sptheme.ext.table_styling'
+    'cloud_sptheme.ext.table_styling',
+    'sphinx_rtd_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
