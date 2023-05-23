@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SwitchBrewDocs'
+copyright = '2023, Domenico Valentino'
+author = 'Domenico Valentino'
 
 release = '0.1'
 version = '0.1.0'
