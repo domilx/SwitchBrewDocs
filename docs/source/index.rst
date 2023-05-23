@@ -33,7 +33,7 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
 
    /atmosphere/incfw
    /atmosphere/emmummc
-   /atmosphere/safetypercautions
+   /atmosphere/safetyprecautions
 
 .. toctree::
    :maxdepth: 2
