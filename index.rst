@@ -15,12 +15,12 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
 
 
 .. note:: 
-   Some parts of this guide were taken from Switch Homebrew official but updated and modified in order to run signed code.
+   Some parts of this guide were taken from Switch Homebrew official but updated and modified in order to run signed code so all credit for the CFW guide goes to them.
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hacking Your Nintendo Switch
+   :caption: Hacking Your Switch
    :hidden:
    
    /hacking/rcm
@@ -47,6 +47,7 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
    :caption: Tinfoil
    :hidden:
 
-   /tinfoil/installation
+   /tinfoil/setup
    /tinfoil/usage
+   /tinfoil/shop
 
