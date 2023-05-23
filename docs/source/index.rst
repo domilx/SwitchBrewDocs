@@ -16,3 +16,33 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
 
 .. note:: 
    Some parts of this guide were taken from Switch Homebrew official but updated and modified in order to run signed code.
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Hacking Your Nintendo Switch
+   :hidden:
+   
+   /hacking/RCM
+   /hacking/SDSetup
+
+.. toctree::
+   :maxdepth: 2
+   :caption: In the CFW
+   :hidden:
+
+   /atmosphere/incfw
+   /atmosphere/emmummc
+   /atmosphere/safetypercautions
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Themes
+   :hidden:
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tinfoil
+   :hidden:
+
