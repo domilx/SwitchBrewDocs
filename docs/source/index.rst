@@ -24,7 +24,7 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
    :hidden:
    
    /hacking/rcm
-   /hacking/sdSetup
+   /hacking/sdsetup
 
 .. toctree::
    :maxdepth: 2
