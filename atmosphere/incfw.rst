@@ -22,8 +22,6 @@ Access the Homebrew Menu by holding the **R** button while opening **any game or
 
 To use the Album again in CFW, hold down the **R** button while clicking on the Album icon.
 
-........
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

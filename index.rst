@@ -51,3 +51,13 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
    /tinfoil/usage
    /tinfoil/shop
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Misc
+   :hidden:
+
+   /faq
+   /troubleshooting
+   /terminology
+
