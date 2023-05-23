@@ -64,3 +64,4 @@ html_logo = "_static/logo.png"
 
 def setup(app):
     app.add_css_file('theme.css')
+    app.add_css_file('theme-light.css')
