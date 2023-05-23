@@ -66,3 +66,6 @@ html_logo = "_static/logo.png"
 html_show_sourcelink = False
 
 html_logo = "_static/logo.png"
+
+def setup(app):
+    app.add_css_file('/_static/theme.css')
