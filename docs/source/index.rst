@@ -23,8 +23,8 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
    :caption: Hacking Your Nintendo Switch
    :hidden:
    
-   /hacking/RCM
-   /hacking/SDSetup
+   /hacking/rcm
+   /hacking/sdSetup
 
 .. toctree::
    :maxdepth: 2
