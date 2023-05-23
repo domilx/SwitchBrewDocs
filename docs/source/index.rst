@@ -27,7 +27,7 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
    /hacking/sdsetup
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: In the CFW
    :hidden:
 
