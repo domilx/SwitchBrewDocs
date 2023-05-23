@@ -1,4 +1,5 @@
 Troubleshooting
+===============
 
 Something didn't work right? Here are some common problems with their solutions.
 
