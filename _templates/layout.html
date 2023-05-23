@@ -6,7 +6,12 @@
     var link = document.createElement('link'); 
     link.rel = 'stylesheet';  
     link.type = 'text/css'; 
-    link.href = '/_static/theme-light.css';
+    var theme = localStorage.getItem('user_theme');
+    if (theme == "dark") {
+        link.href = '/_static/theme-dark.css';
+    } else {
+        link.href = '/_static/theme-light.css';
+    }
     head.appendChild(link);
 </script>
 {% if "index" in sourcename %}

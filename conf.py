@@ -17,7 +17,9 @@ import sys
 sys.path.insert(0, os.path.abspath('_extensions'))
 
 
-project = 'SwitchBrewDocs'
+# -- Project information -----------------------------------------------------
+
+project = 'SwitchBrew Guide'
 copyright = '2023, Domenico Valentino'
 author = 'Domenico Valentino'
 
@@ -90,9 +92,9 @@ html_theme_options = {
 
 html_context = {
     "display_github": True,
-    "github_user": "noahc3",
-    "github_repo": "Homebrew-Guide",
-    "github_version": "master",
+    "github_user": "domilx",
+    "github_repo": " SwitchBrewDocs",
+    "github_version": "main",
     "conf_py_path": "/"
 }
 
@@ -122,7 +124,7 @@ html_show_sourcelink = False
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HomebrewGuide'
+htmlhelp_basename = 'SwitchBrewDocs'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -144,6 +146,38 @@ latex_elements = {
     #
     # 'figure_align': 'htbp',
 }
+
+# Grouping the document tree into LaTeX files. List of tuples
+# (source start file, target name, title,
+#  author, documentclass [howto, manual, or own class]).
+latex_documents = [
+    (master_doc, ' SwitchBrewDocs.tex', 'SwitchBrew Docs',
+     'Domenico Valentino', 'manual'),
+]
+
+
+# -- Options for manual page output ------------------------------------------
+
+# One entry per manual page. List of tuples
+# (source start file, name, description, authors, manual section).
+man_pages = [
+    (master_doc, 'SwitchBrewDocs', 'SwitchBrew Docs',
+     [author], 1)
+]
+
+
+# -- Options for Texinfo output ----------------------------------------------
+
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+    (master_doc, 'SwitchBrewDocs', 'SwitchBrew Docs',
+     author, 'SwitchBrewDocs', 'Hacking your switch, from RCM to in-game.',
+     'Miscellaneous'),
+]
+
+
 # -- Options for Epub output -------------------------------------------------
 
 # Bibliographic Dublin Core info.
