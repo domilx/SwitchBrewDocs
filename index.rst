@@ -40,6 +40,7 @@ With this guide, we aim to empower you with the knowledge and tools necessary to
    :caption: Themes
    :hidden:
 
+   /themes/themes
 
 .. toctree::
    :maxdepth: 2
