@@ -4,12 +4,12 @@ Install Tinfoil
 Tinfoil is a popular homebrew application for the Nintendo Switch, designed to enhance the functionality and customization options of hacked consoles. This section provides an overview of Tinfoil, highlighting its features, uses, and important considerations for users.
 
 What is Tinfoil?
-================
+--------------------------
 
 Tinfoil is a homebrew application that enables Nintendo Switch users to manage, install, and play games, updates, DLCs, and other content on their hacked consoles. It acts as a versatile content management tool, providing an alternative way to access and enjoy a wide range of software titles beyond the official Nintendo ecosystem.
 
 Features and Functionality
-==========================
+--------------------------
 
 Tinfoil offers several key features that contribute to its popularity within the Nintendo Switch hacking community. These features include:
  - Game Installation: Tinfoil allows users to install games and applications directly onto their Nintendo Switch consoles. This feature is particularly useful for accessing homebrew projects, custom game mods, and other unofficial content.
@@ -19,7 +19,7 @@ Tinfoil offers several key features that contribute to its popularity within the
 
 .. note::
    Important Considerations
-   ========================
+   -------------------------
    While Tinfoil offers exciting possibilities for Nintendo Switch enthusiasts, it's crucial to be aware of certain considerations and responsibilities:
 
     - Legal Implications: Installing and using Tinfoil, as well as downloading and installing unauthorized content, may infringe upon copyright and licensing agreements. It is essential to respect intellectual property rights and only use Tinfoil for legal purposes.
