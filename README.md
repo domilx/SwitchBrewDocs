@@ -34,7 +34,7 @@ As you embark on your hacking journey, you may encounter common questions and co
 
 ## Contributing
 
-We encourage contributions from the community to improve and expand this Nintendo Switch hacking guide. Whether you want to fix a typo, add new content, or suggest improvements, your contributions are valuable. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+We encourage contributions from the community to improve and expand this Nintendo Switch hacking guide. Whether you want to fix a typo, add new content, or suggest improvements, your contributions are valuable.
 
 ## License
 
